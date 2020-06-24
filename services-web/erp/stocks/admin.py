@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Stock
+from .models import Stock, StockOrder
 
 
 @admin.register(Stock)
@@ -22,4 +22,19 @@ class StockAdmin(admin.ModelAdmin):
     search_fields = [
         'sku',
         'name',
+    ]
+
+@admin.register(StockOrder)
+class StockOrderAdmin(admin.ModelAdmin):
+    list_display = (
+        'stock',
+        'quantity',
+    )
+    list_filter = (
+        'stock',
+        'quantity',
+    )
+    search_fields = [
+        'stock',
+        'quantity',
     ]
