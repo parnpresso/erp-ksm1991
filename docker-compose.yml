@@ -4,12 +4,12 @@ services:
     container_name: nginx
     build:
       context: .
-      dockerfile: ./service-nginx/Dockerfile
+      dockerfile: ./services-nginx/Dockerfile
     ports:
       - "80:80"
     volumes:
-      - ./service-web/erp/static:/static
-      - ./service-web/erp/media:/media
+      - ./services-web/erp/static:/static
+      - ./services-web/erp/media:/media
     depends_on:
       - web
 
