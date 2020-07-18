@@ -25,5 +25,21 @@ services:
     volumes:
       - db-data:/var/lib/postgresql/data
 
+  code-server:
+    image: linuxserver/code-server
+    container_name: code-server
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+      - PASSWORD=password #optional
+      - SUDO_PASSWORD=password #optional
+      - PROXY_DOMAIN=code-server.my.domain #optional
+    volumes:
+      - ./services-web:/config
+    ports:
+      - 8443:8443
+    restart: unless-stopped
+
 volumes:
   db-data:
