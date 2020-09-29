@@ -1,0 +1,971 @@
+[2020-07-19 16:39:51.208] [exthost] [info] extension host started
+[2020-07-19 16:39:51.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-19 16:39:51.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-07-19 16:39:51.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-19 16:39:51.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-07-19 16:39:51.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-07-19 16:39:51.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-07-19 16:39:51.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-19 16:39:51.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-07-19 16:39:51.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-19 16:39:51.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-07-19 16:39:51.585] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-19 16:39:51.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-07-19 16:39:51.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-07-19 16:39:51.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-07-19 16:39:51.602] [exthost] [info] eager extensions activated
+[2020-07-19 16:40:01.705] [exthost] [info] extension host started
+[2020-07-19 16:40:01.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-07-19 16:40:01.980] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-07-19 16:40:02.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-07-19 16:40:02.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-07-19 16:40:02.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-19 16:40:02.045] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-07-19 16:40:02.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-07-19 16:40:02.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-07-19 16:40:02.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-19 16:40:02.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-07-19 16:40:02.146] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-19 16:40:02.146] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-07-19 16:40:02.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-19 16:40:02.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-07-19 16:40:02.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-07-19 16:40:02.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-07-19 16:40:02.170] [exthost] [info] eager extensions activated
+[2020-07-21 04:09:46.329] [exthost] [info] extension host started
+[2020-07-21 04:09:46.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-21 04:09:46.619] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-07-21 04:09:46.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-21 04:09:46.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-07-21 04:09:46.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-07-21 04:09:46.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-07-21 04:09:46.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-21 04:09:46.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-07-21 04:09:46.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-21 04:09:46.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-07-21 04:09:46.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-21 04:09:46.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-07-21 04:09:46.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-07-21 04:09:46.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-07-21 04:09:46.784] [exthost] [info] eager extensions activated
+[2020-07-21 04:10:32.255] [exthost] [info] extension host started
+[2020-07-21 04:10:32.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-07-21 04:10:32.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-07-21 04:10:32.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-07-21 04:10:32.655] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-07-21 04:10:32.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-07-21 04:10:32.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/python/dist/pythonMain
+[2020-07-21 04:10:32.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-21 04:10:32.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-07-21 04:10:32.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-07-21 04:10:32.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-07-21 04:10:32.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-21 04:10:33.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-07-21 04:10:33.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-21 04:10:33.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-07-21 04:10:33.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-21 04:10:33.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-07-21 04:10:33.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-07-21 04:10:33.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-07-21 04:10:33.107] [exthost] [info] eager extensions activated
+[2020-07-21 04:12:26.496] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 04:12:26.507] [exthost] [error] Error: Cannot find module 'vscode-emmet-helper'
+Require stack:
+- /node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js
+- /node_modules/code-server/lib/vscode/out/vs/loader.js
+- /node_modules/code-server/lib/vscode/out/bootstrap-amd.js
+- /node_modules/code-server/lib/vscode/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+	at Function.t._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:956:846)
+	at Function.n._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:926:106)
+	at Function.i._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:922:391)
+	at Module.require (internal/modules/cjs/loader.js:1026:19)
+	at require (internal/modules/cjs/helpers.js:72:18)
+	at Object.<anonymous> (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:59931)
+	at n (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:158)
+	at Object.t.getEmmetHelper (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:3341)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:53050)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 04:12:35.444] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 04:12:35.445] [exthost] [error] TypeError: s.updateExtensionsPath is not a function
+	at c (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:2978)
+	at Object.t.getEmmetHelper (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:3348)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:53050)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 04:12:36.221] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 04:12:36.226] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 04:18:41.002] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 04:18:41.006] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 04:21:31.352] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 04:21:31.352] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:24:38.961] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:24:38.961] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:24:48.843] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:24:48.844] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:25:11.428] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:25:11.428] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:25:18.362] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:25:18.363] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:25:22.431] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:25:22.431] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:26:20.751] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:26:20.751] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:26:46.627] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:26:46.628] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:26:50.313] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:26:50.313] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:26:51.065] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:26:51.065] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:26:59.113] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:26:59.118] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:00.229] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:00.230] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:00.766] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:00.766] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:01.311] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:01.311] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:09.379] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:09.379] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:10.715] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:10.717] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:27:14.456] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:27:14.456] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:28:24.867] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:28:24.869] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:28:26.325] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:28:26.330] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-21 05:28:26.962] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-07-21 05:28:26.962] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-07-22 09:56:11.397] [exthost] [info] extension host started
+[2020-07-22 09:56:11.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-07-22 09:56:11.786] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-07-22 09:56:11.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-07-22 09:56:11.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-07-22 09:56:11.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-22 09:56:11.866] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-07-22 09:56:11.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-07-22 09:56:11.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-07-22 09:56:11.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-22 09:56:11.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-07-22 09:56:11.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-22 09:56:11.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-07-22 09:56:11.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-22 09:56:11.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-07-22 09:56:11.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-07-22 09:56:11.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-07-22 09:56:11.985] [exthost] [info] eager extensions activated
+[2020-07-22 09:58:08.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-07-22 09:58:08.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/python/dist/pythonMain

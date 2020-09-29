@@ -1,0 +1,196 @@
+[2020-08-20 09:40:10.056] [exthost] [info] extension host started
+[2020-08-20 09:40:10.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-20 09:40:10.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-08-20 09:40:10.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-20 09:40:10.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-08-20 09:40:10.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-08-20 09:40:10.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-08-20 09:40:10.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-20 09:40:10.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-08-20 09:40:10.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-20 09:40:10.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-08-20 09:40:10.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-20 09:40:10.421] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-08-20 09:40:10.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-08-20 09:40:10.423] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-08-20 09:40:10.438] [exthost] [info] eager extensions activated
+[2020-09-18 08:14:01.915] [exthost] [info] extension host started
+[2020-09-18 08:14:02.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-18 08:14:02.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-18 08:14:02.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-18 08:14:02.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-09-18 08:14:02.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-09-18 08:14:02.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-18 08:14:02.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-18 08:14:02.256] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-18 08:14:02.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-18 08:14:02.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-09-18 08:14:02.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-18 08:14:02.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-18 08:14:02.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-09-18 08:14:02.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-09-18 08:14:02.296] [exthost] [info] eager extensions activated
+[2020-09-18 08:14:26.448] [exthost] [info] extension host started
+[2020-09-18 08:14:26.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-09-18 08:14:26.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-09-18 08:14:26.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-09-18 08:14:26.751] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-09-18 08:14:26.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-18 08:14:26.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-18 08:14:26.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-09-18 08:14:26.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-18 08:14:26.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-18 08:14:26.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-18 08:14:26.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-18 08:14:26.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-09-18 08:14:26.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-18 08:14:26.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-18 08:14:26.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-09-18 08:14:26.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-09-18 08:14:26.892] [exthost] [info] eager extensions activated
+[2020-09-18 09:00:12.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-09-18 09:00:12.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/python/dist/pythonMain
+[2020-09-18 09:01:10.200] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-09-18 09:01:10.206] [exthost] [error] Error: Cannot find module 'vscode-emmet-helper'
+Require stack:
+- /node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js
+- /node_modules/code-server/lib/vscode/out/vs/loader.js
+- /node_modules/code-server/lib/vscode/out/bootstrap-amd.js
+- /node_modules/code-server/lib/vscode/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+	at Function.t._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:956:846)
+	at Function.n._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:926:106)
+	at Function.i._load (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:922:391)
+	at Module.require (internal/modules/cjs/loader.js:1026:19)
+	at require (internal/modules/cjs/helpers.js:72:18)
+	at Object.<anonymous> (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:59931)
+	at n (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:158)
+	at Object.t.getEmmetHelper (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:3341)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:53050)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-09-18 09:01:20.690] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-09-18 09:01:20.691] [exthost] [error] TypeError: s.updateExtensionsPath is not a function
+	at c (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:2978)
+	at Object.t.getEmmetHelper (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:3348)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:53050)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-09-18 09:01:21.246] [exthost] [error] [vscode.emmet] provider FAILED
+[2020-09-18 09:01:21.246] [exthost] [error] TypeError: d.extractAbbreviation is not a function
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:54179)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/node_modules/code-server/lib/vscode/extensions/emmet/dist/extension.js:1:52275)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:521
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:988
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:960)
+	at H.provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:675:492)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:883
+	at e._withAdapter (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:685:862)
+	at e.$provideCompletionItems (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:861)
+	at e._doInvokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:363)
+	at e._invokeHandler (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:790:55)
+	at e._receiveRequest (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:688)
+	at e._receiveOneMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:518)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:754
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:958:347
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+	at t.PersistentProtocol._receiveMessage (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+	at e.fire (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at f._acceptChunk (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:182)
+	at /node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:346
+	at Socket.t (/node_modules/code-server/lib/vscode/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:186:23)
+[2020-09-21 05:07:01.946] [exthost] [info] extension host started
+[2020-09-21 05:07:19.959] [exthost] [info] extension host started
+[2020-09-21 05:07:20.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-09-21 05:07:20.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-09-21 05:07:20.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-09-21 05:07:20.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-09-21 05:07:20.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-21 05:07:20.531] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-21 05:07:20.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-09-21 05:07:20.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-21 05:07:20.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-21 05:07:20.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-21 05:07:20.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-21 05:07:20.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-09-21 05:07:20.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-21 05:07:20.602] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-21 05:07:20.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-09-21 05:07:20.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///node_modules/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-09-21 05:07:20.628] [exthost] [info] eager extensions activated

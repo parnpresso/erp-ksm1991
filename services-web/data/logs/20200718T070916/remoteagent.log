@@ -23,3 +23,7 @@
 [2020-07-18 08:00:21.595] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
 [2020-07-18 08:00:54.712] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
 [2020-07-18 08:00:54.713] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
+[2020-07-18 08:23:23.046] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
+[2020-07-18 08:23:23.046] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
+[2020-07-18 08:35:43.103] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
+[2020-07-18 08:35:43.103] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
